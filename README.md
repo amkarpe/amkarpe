@@ -1,7 +1,7 @@
 
 # Hey there 👋
 
-I'm Ameya, a Data Scientist and AI Engineer based in United States
+I'm Ameya, a Data Scientist and AI Engineer based in United States.
 I work on practical AI systems that combine data, language, and automation to solve real-world problems. My experience spans LLM applications, conversational AI, document intelligence, predictive analytics, and data-driven decision making.
 
 This is my space for projects, experiments, research work, and tools I build while exploring how AI can be used in useful, reliable, and responsible ways.
